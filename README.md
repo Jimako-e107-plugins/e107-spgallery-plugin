@@ -10,3 +10,4 @@ If the core Gallery plugin was previously used, uninstall it and update the URL 
 Full credit to the original e107 core development team.
 
 
+👉 Watch the video on YouTube: https://www.youtube.com/watch?v=6ZjKkLU2GgQ
